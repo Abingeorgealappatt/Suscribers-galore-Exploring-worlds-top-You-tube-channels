@@ -5,4 +5,4 @@ Dashboard 2 public link https://public.tableau.com/views/Dashboard2_169675910180
 Dashboard 3 public link https://public.tableau.com/views/Dashboard3_16967591700600/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 Dashboard 4 public link https://public.tableau.com/views/Dashboard4_16967592459150/Dashboard4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 Story public link https://public.tableau.com/views/Story1_16966159547640/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-Video demonstration link https://drive.google.com/file/d/1EavhR2GjURztdkRfAQmsfT-J1EB4fzZj/view?usp=drive_link
+Video demonstration link https://drive.google.com/file/d/1EavhR2GjURztdkRfAQmsfT-J1EB4fzZj/view?usp=sharing
